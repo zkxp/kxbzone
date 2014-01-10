@@ -1,0 +1,15 @@
+.form-signin{
+	margin:0 auto;
+	max-width: 300px;
+	padding: 5px;
+	margin-top: 60px;
+}
+body{
+	background-color: #EEEEEE;
+}
+.form-signin input,.form-signin button{
+	margin-top: 5px;
+}
+*, *:before, *:after {
+    -moz-box-sizing: border-box;
+}
